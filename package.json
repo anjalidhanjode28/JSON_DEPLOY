@@ -1,0 +1,24 @@
+{
+  "name": "deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjalidhanjode28/JSON_DEPLOY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjalidhanjode28/JSON_DEPLOY/issues"
+  },
+  "homepage": "https://github.com/anjalidhanjode28/JSON_DEPLOY#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
