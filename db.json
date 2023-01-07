@@ -1,4 +1,28 @@
 {
+	"users": [
+        {
+            "email": "abc123@gmail.com",
+            "username": "abc123",
+            "password": "abc"
+        },
+        {
+            "email": "xyz123@gmail.com",
+            "username": "xyz123",
+            "password": "xyz"
+        },
+        {
+            "email": "rst123@gmail.com",
+            "username": "rst123",
+            "password": "rst"
+        },
+        {
+            "email": "ranjni@gmail.com",
+            "username": "Rajni",
+            "password": "xxx"
+        }
+    
+    
+    ]
     "anjali":
     [
         {
